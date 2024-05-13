@@ -1,0 +1,43 @@
+body{
+   background-color:pink;
+}
+.container{
+    position: fixed;
+    top: 130px; 
+    right: 12px;
+   
+}
+#container div{
+    width:60px;
+    height: 60px;
+    margin: 10px;
+}
+#container div a{
+    padding-left: 10px;
+    padding-top: 10px;
+    /* font-size: 80px;*/ }
+   
+#fb{
+   /* background-color: antiquewhite; */
+   color: blue;
+   padding: 5px;}
+#insta{
+   /* background-color: antiquewhite; */
+   color: blueviolet;
+    padding: 5px;}
+#linkedin{
+   /* background-color: antiquewhite; */
+   color: brown;
+    padding: 5px;}
+#twtter{
+   /* background-color: antiquewhite; */
+   color: black;
+    padding: 5px;}
+#youtube{
+   /* background-color: antiquewhite; */
+   color: aqua;
+    padding: 5px;}
+p{
+   background-color: aquamarine;
+   font: 1em sans-serif;
+}
